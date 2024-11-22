@@ -1,0 +1,11 @@
+{
+  "name": "create-toto",
+  "description": "Create a toto",
+  "options": [
+    {
+      "name": "name",
+      "description": "toto name",
+      "type": 3
+    }
+  ]
+}

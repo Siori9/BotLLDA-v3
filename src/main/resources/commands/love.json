@@ -1,0 +1,11 @@
+{
+  "name": "love",
+  "description": "Love love",
+  "options": [
+    {
+      "name": "name",
+      "description": "Your name",
+      "type": 3
+    }
+  ]
+}
